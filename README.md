@@ -7,7 +7,7 @@
 - 3° - List: 13 Exercises / Level: Medium/Advanced 
 
 Remembering that this content has a level of difficulty with respect exclusively to logic and programming.
-This material has nothing to do with data structure, despite being a great support for those who are in a study process
+This material has nothing to do with data structure, despite being a great support for those who are in a study process...
 
 ##
 
